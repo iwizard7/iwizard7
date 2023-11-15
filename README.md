@@ -5,9 +5,9 @@
 
 ## LIKES 👍
 ⌨ Programming <br>
-⌨ Hacking
-🛰 SDR
-🛰 Satellites
-🚁 Drones
-💾 Arduino
-💾 RaspberryPI
+⌨ Hacking <br>
+🛰 SDR <br>
+🛰 Satellites <br>
+🚁 Drones <br>
+💾 Arduino <br>
+💾 RaspberryPI <br>

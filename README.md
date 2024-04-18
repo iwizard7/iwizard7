@@ -9,5 +9,5 @@
 🛰 SDR <br>
 🛰 Satellites <br>
 🚁 Drones <br>
-💾 Arduino <br>
-💾 RaspberryPI <br>
+⚡️ Arduino <br>
+⚡️ RaspberryPI <br>
